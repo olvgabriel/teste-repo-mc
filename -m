@@ -1,0 +1,35 @@
+[33mcommit 01bf5dcdaca6e71ccc85ad0d21e985318b838113[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Gabriel-Oliveira <eng.gabrielolv@gmail.com>
+Date:   Mon Jan 15 07:13:56 2024 -0300
+
+    alteracao do nome
+
+[33mcommit a540d4da4025fab083a6169db0af61ac0fe5d952[m
+Author: Gabriel-Oliveira <eng.gabrielolv@gmail.com>
+Date:   Mon Jan 15 07:09:54 2024 -0300
+
+    teste do commit without add
+
+[33mcommit 4e19af0885c6e31e0d090c9bcf42766c09b8344b[m
+Author: Gabriel-Oliveira <eng.gabrielolv@gmail.com>
+Date:   Mon Jan 15 07:02:12 2024 -0300
+
+    alteracao teste.txt
+
+[33mcommit c191cb5587eff1e204b455545067d9404aa76a25[m
+Author: Gabriel-Oliveira <eng.gabrielolv@gmail.com>
+Date:   Mon Jan 15 07:01:19 2024 -0300
+
+    codigo html no teste
+
+[33mcommit c8b38c48a9db75f6210cdb321c2f536de5230808[m
+Author: Gabriel-Oliveira <eng.gabrielolv@gmail.com>
+Date:   Mon Jan 15 06:58:42 2024 -0300
+
+    second commit - file teste.txt
+
+[33mcommit cccc849cb6e9cc10f5fd8838ef2aa43bc6f072e6[m
+Author: Gabriel-Oliveira <eng.gabrielolv@gmail.com>
+Date:   Mon Jan 15 06:55:55 2024 -0300
+
+    first commit - commiting all files to the repository

@@ -19,16 +19,6 @@
         </ul>
     </nav>
 
-    <section>
-        <h2>Seção 1</h2>
-        <p>Este é um parágrafo de exemplo.</p>
-    </section>
-
-    <section>
-        <h2>Seção 2</h2>
-        <p>Outro parágrafo de exemplo.</p>
-    </section>
-
     <footer>
         <p>&copy; 2024 Minha Página. Todos os direitos reservados.</p>
     </footer>
